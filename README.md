@@ -1,2 +1,2 @@
-# goit-markup-hw-2
-GoIT Homework №2
+# goit-markup-hw-1
+Hello World!
