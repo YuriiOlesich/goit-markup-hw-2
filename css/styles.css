@@ -136,7 +136,7 @@ address:focus {
   background-color: #FFFFFF;
 }
 
-.hero-header {
+.team-hero-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -144,7 +144,7 @@ address:focus {
   color: #2e2f42;
 }
 
-.hero-info {
+.team-hero-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
