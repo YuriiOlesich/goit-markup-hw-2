@@ -123,18 +123,12 @@ address:focus {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42
 }
 
-.team-list {
-  background-color: #FFFFFF;
-}
-
-.team-person-mark,
-.team-person-tom,
-.team-person-camila,
-.team-person-daniel {
+.team-person-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -142,10 +136,7 @@ address:focus {
   color: #2e2f42 ;
 }
 
-.team-mark-job,
-.team-tom-job,
-.team-camila-job,
-.team-daniel-job {
+.team-person-job{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
