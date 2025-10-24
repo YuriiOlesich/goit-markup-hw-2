@@ -1,0 +1,180 @@
+/* font-family: "Raleway", sans-serif;
+font-family: "Roboto", sans-serif; */
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #fff;
+  color: #434455
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+.logo {
+  font-weight: 700;
+font-size: 18px; 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.header-logo .logo-part {
+  color: #2e2f42;
+}
+
+.nav-link {
+font-weight: 500;
+font-size: 16px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+
+address {
+  font-style: normal;
+}
+
+.contacts-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.nav-link:hover,:focus,
+.contacts-link:hover,:focus {
+  color: #404BBF;
+}
+
+.page-footer {
+  background-color: #2e2f42;
+}
+
+.solutions-title {
+  font-size: 36px; 
+  line-height: 1.22222;
+  letter-spacing: 0.03em;
+  color: #fff;
+  background-color: #2e2f42;
+}
+
+.main-button {
+  background-color: #4d5ae5;
+  color: #fff;
+}
+
+.main-button:hover,:focus {
+  background-color: #404bbf;
+}
+
+.preferred-section {
+  background-color: #f4f4fd;
+}
+
+.strategy-title,
+.punctuality-title,
+.diligence-title,
+.technologies-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2e2f42
+}
+
+.strategy-text,
+.punctuality-text,
+.diligence-text,
+.technologies-text {
+  font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.team-section {
+  background-color: #f4f4fd;;
+}
+
+.team-title {
+  font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+color: #2e2f42;
+}
+.hero-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.profession-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.hero-image {
+  width: 264px;
+  height: 260px;
+}
+
+
+.portfolio-section {
+  background-color: #f4f4fd;
+}
+
+.portfolio-title {
+  font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+color: #2e2f42;}
+
+.portfolio-name {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-text {
+  font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.footer-logo {
+  font-weight: 700;
+font-size: 18px; 
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.footer-logo .footer-logo-part {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
