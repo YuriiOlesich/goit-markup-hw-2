@@ -115,32 +115,37 @@ address:focus {
   color: #434455;
 }
 
-.team {
-  background-color: #F4F4FD;
+.team-section {
+  background-color: #F4F4FD
 }
 
 .team-title {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
   text-transform: capitalize;
+  color: #2e2f42
 }
 
-.team-item {
+.team-list {
   background-color: #FFFFFF;
 }
 
-.team-person {
+.team-person-mark,
+.team-person-tom,
+.team-person-camila,
+.team-person-daniel {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: #2e2f42 ;
 }
 
-.team-person-post {
+.team-mark-job,
+.team-tom-job,
+.team-camila-job,
+.team-daniel-job {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
